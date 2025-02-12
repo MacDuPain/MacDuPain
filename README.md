@@ -33,6 +33,10 @@ Passionate about building scalable and efficient web applications, I specialize 
   <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=macdupain&theme=github_dark" />
 </a>  
 
+<a href="https://github.com/Yunjidev">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yunjidev&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+
 <a href="https://github.com/MacDuPain">
   <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=macdupain&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" />
 </a>  
