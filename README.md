@@ -1,5 +1,3 @@
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/sacha-godel-862a2a300/)
-
 # Hi I'm Sacha
 
 ## Full-Stack Developer | React | TypeScript | Ruby on Rails 
@@ -8,6 +6,7 @@ Passionate about building scalable and efficient web applications, I specialize 
 
  **Location**: Montpellier, France  
  **Email**: godel.sacha@gmail.com  
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/sacha-godel-862a2a300/)
 
 ---
 
@@ -35,5 +34,5 @@ Passionate about building scalable and efficient web applications, I specialize 
 </a>  
 
 <a href="https://github.com/MacDuPain">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=macdupain&theme=dark" />
+  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=macdupain&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" />
 </a>  
