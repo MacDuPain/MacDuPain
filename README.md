@@ -2,7 +2,9 @@
 
 ## Full-Stack Developer | React | TypeScript | Ruby on Rails 
 
-Passionate about building scalable and efficient web applications, I specialize in front-end development but also work on back-end solutions. My focus is on delivering high-quality, user-centric digital experiences.  
+Hi, my name is Sacha, and I’m 28 years old. I’m passionate about video games and new technologies. I currently live in Montpellier, in southern France.  
+I specialize in front-end development but also work on back-end solutions.  
+My focus is on delivering tailored solutions to meet your needs and improving the user experience as much as possible. 
 
  **Location**: Montpellier, France  
  **Email**: godel.sacha@gmail.com  
