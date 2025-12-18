@@ -16,14 +16,26 @@ Passionate about building scalable and efficient web applications, I specialize 
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=4AB197)  
 ![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=4AB197)  
 ![](https://img.shields.io/badge/Code-Tailwind-informational?style=flat&logo=tailwindcss&logoColor=white&color=4AB197)  
+![](https://img.shields.io/badge/Style-Bootstrap-informational?style=flat&logo=bootstrap&logoColor=white&color=4AB197)
 
 ### 🖥️ **Back-end**  
 ![](https://img.shields.io/badge/Database-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=4AB197)  
+![](https://img.shields.io/badge/Database-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Database-NoSQL-informational?style=flat&logo=databricks&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Database-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-Node.js-informational?style=flat&logo=node.js&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-Express.js-informational?style=flat&logo=express&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-Ruby-informational?style=flat&logo=ruby&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Framework-Ruby%20on%20Rails-informational?style=flat&logo=rubyonrails&logoColor=white&color=4AB197)
 
 ### 🛠 **Tools**  
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=4AB197)  
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=github&logoColor=white&color=4AB197)  
 ![](https://img.shields.io/badge/Tools-Figma-informational?style=flat&logo=figma&logoColor=white&color=4AB197)  
+![](https://img.shields.io/badge/Tools-DBeaver-informational?style=flat&logo=dbeaver&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Tools-GitHub%20Desktop-informational?style=flat&logo=github&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Tools-Draw.io-informational?style=flat&logo=diagramsdotnet&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Tools-Docusaurus-informational?style=flat&logo=docusaurus&logoColor=white&color=4AB197)
 
 ---
 
